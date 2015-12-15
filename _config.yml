@@ -1,0 +1,28 @@
+name: BrianSun
+favicon: null
+layout_spectrum: 0.37261638371273875
+typography_spectrum: 0.8248406474012882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2060654719825834
+  lightness: 0.46728630643337965
+  saturation: 0.7591104649472982
+  rhythmicContrast: 0.33811973966658115
+purpose: []
